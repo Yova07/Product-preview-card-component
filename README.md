@@ -8,5 +8,5 @@ The page can be viewed [here](https://yova07.github.io/Product-preview-card-comp
 
 ## How
 
-*HTML
-*CSS
+-HTML
+-CSS
